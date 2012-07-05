@@ -6,7 +6,7 @@ Gem for ruby on rails projects that wants register your author in code.
 
 Add this line to your application's Gemfile:
 
-    gem 'copyright_author', :git => 'git://github.com/igoramorim/copyright_author.git'
+    gem 'copyright_author'
 
 And then execute:
 
